@@ -1,0 +1,44 @@
+body{
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ph{
+    font-size: 40px;
+    font-weight: 800px;
+    font-weight: bold;
+}
+.ph-p{
+    font-size: 20px;
+}
+.injurypic{
+    width: 75%;
+}
+.car{
+    font-size: 40px;
+    font-weight: 800px;
+    font-weight: bold;
+}
+.p-p{
+    font-size: 25px;
+    font-weight: 800px;
+    font-weight: bold;
+}
+.car-p{
+    font-size: 20px;
+}
+.last{
+    width: 120%;
+    height: 93%;
+}
+.chiro{
+    width: 70%;
+}
+.c-t{
+    font-weight: bold;
+}
+.points{
+    margin-top: 5%;
+}
+.ct-text{
+    margin-right: 05%;
+}
